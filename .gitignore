@@ -8,7 +8,7 @@ _.so
 
 # Test binary, built with `go test -c`
 
-\*.test
+\*est
 
 # Output of the go coverage tool, specifically when used with LiteIDE
 
@@ -23,3 +23,8 @@ _.so
 node_modules
 
 .env
+
+.DS_Store
+
+assets/.DS_Store
+
